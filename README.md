@@ -6,9 +6,6 @@ Here's a high-level system diagram for the AI Physio Assistant:
 
 ![System Diagram](docs/ai-physio-assistant.png)
 
-
-## 🧠 System Architecture
-
 You can open the architecture plan using [Excalidraw](https://excalidraw.com) by loading the file:
 
 📁 `docs/ai-physio-assistant-plan.excalidraw`
